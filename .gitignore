@@ -1,0 +1,29 @@
+# --- Configuración local de herramientas (no se comparte) ---
+.claude/settings.local.json
+
+# --- Sistema operativo ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+._*
+
+# --- Editores ---
+.vscode/
+.idea/
+*.swp
+*~
+
+# --- Temporales y respaldos ---
+*.log
+*.tmp
+*.bak
+*.orig
+
+# --- Material fuente pesado (no va al repo del sitio) ---
+*.pptx
+*.docx
+*.psd
+*.ai
+*.cdr

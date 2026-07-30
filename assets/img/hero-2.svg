@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1000" width="1920" height="1000" role="img" aria-label="MAQUINARIA AMARILLA EN OBRA">
+<defs>
+<pattern id="hatch" width="14" height="14" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+<line x1="0" y1="0" x2="0" y2="14" stroke="#ffffff" stroke-opacity="0.045" stroke-width="7"/>
+</pattern>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#1c1f24"/><stop offset="60%" stop-color="#2a2f36"/><stop offset="100%" stop-color="#12151a"/>
+</linearGradient>
+</defs>
+<rect width="1920" height="1000" fill="url(#g)"/>
+<rect width="1920" height="1000" fill="url(#hatch)"/>
+<circle cx="1498" cy="300" r="23" fill="#e8611a" opacity="0.10"/><circle cx="1430" cy="355" r="35" fill="#e8611a" opacity="0.11"/><circle cx="1363" cy="410" r="46" fill="#e8611a" opacity="0.12"/><circle cx="1296" cy="465" r="58" fill="#e8611a" opacity="0.14"/><circle cx="1229" cy="520" r="69" fill="#e8611a" opacity="0.15"/><circle cx="1162" cy="575" r="81" fill="#e8611a" opacity="0.16"/><circle cx="1094" cy="630" r="92" fill="#e8611a" opacity="0.17"/><circle cx="1498" cy="300" r="23" fill="#ffffff" opacity="0.05"/><circle cx="1536" cy="375" r="35" fill="#ffffff" opacity="0.06"/><circle cx="1574" cy="450" r="46" fill="#ffffff" opacity="0.07"/><circle cx="1613" cy="525" r="58" fill="#ffffff" opacity="0.07"/><circle cx="1651" cy="600" r="69" fill="#ffffff" opacity="0.08"/><circle cx="1690" cy="675" r="81" fill="#ffffff" opacity="0.09"/><circle cx="1728" cy="750" r="92" fill="#ffffff" opacity="0.10"/>
+<rect x="0" y="994" width="1920" height="6" fill="#e8611a"/>
+<g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+<text x="960.0" y="496.0" fill="#ffffff" fill-opacity="0.88" font-size="73" font-weight="700" letter-spacing="2">MAQUINARIA AMARILLA EN OBRA</text>
+<text x="960.0" y="584" fill="#e8611a" font-size="33" font-weight="600" letter-spacing="4">REEMPLAZAR POR FOTO REAL 1920x1000</text>
+</g>
+</svg>

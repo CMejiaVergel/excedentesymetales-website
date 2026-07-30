@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /politica-de-datos.html
+
+Sitemap: https://www.excedentesymetales.com/sitemap.xml

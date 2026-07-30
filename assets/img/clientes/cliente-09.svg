@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 120" width="260" height="120">
+<rect width="260" height="120" fill="#ffffff"/>
+<rect x="0.5" y="0.5" width="259" height="119" fill="none" stroke="#dfe3e8"/>
+<circle cx="88" cy="52" r="13" fill="#e8611a" opacity="0.75"/>
+<circle cx="112" cy="60" r="9" fill="#8a9096" opacity="0.75"/>
+<circle cx="132" cy="66" r="6" fill="#1c1f24" opacity="0.6"/>
+<text x="130" y="98" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="2" fill="#8a9096">CLIENTE 09</text>
+</svg>
