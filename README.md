@@ -108,10 +108,16 @@ preguntas frecuentes, línea de tiempo histórica, datos estructurados para Goog
 
 ## 4. Pendientes de información del cliente
 
-> 📄 **El detalle completo está en [REQUERIMIENTOS-CLIENTE.md](REQUERIMIENTOS-CLIENTE.md)**:
-> los 24 espacios de fotografía con su ubicación, formato y tamaño exactos, los
-> logos de clientes, testimonios, casos de éxito, autorizaciones legales y la lista
-> de verificación para entregar al cliente. Lo de abajo es el resumen.
+> Hay dos documentos sobre lo que falta, según a quién se le entregue:
+>
+> - 📄 **[SOLICITUD-DE-MATERIAL.md](SOLICITUD-DE-MATERIAL.md) — para enviarle al cliente.**
+>   Formulario simple que la empresa diligencia: lista de fotos a tomar y campos en
+>   blanco para completar. Sin lenguaje técnico.
+> - 🔧 **[REQUERIMIENTOS-CLIENTE.md](REQUERIMIENTOS-CLIENTE.md) — de uso interno.**
+>   Los 24 espacios de fotografía con archivo destino, ubicación, formato y tamaño
+>   exactos, más las especificaciones técnicas de cada dato.
+>
+> Lo de abajo es el resumen.
 
 Marcados en el código con el comentario `← CONFIRMAR` o `DATO POR CONFIRMAR`.
 
