@@ -113,6 +113,8 @@ preguntas frecuentes, línea de tiempo histórica, datos estructurados para Goog
 > - 📄 **[SOLICITUD-DE-MATERIAL.md](SOLICITUD-DE-MATERIAL.md) — para enviarle al cliente.**
 >   Formulario simple que la empresa diligencia: lista de fotos a tomar y campos en
 >   blanco para completar. Sin lenguaje técnico.
+>   Hay una versión en Word con la identidad visual de Voltac, lista para enviar,
+>   en [docs/](docs/).
 > - 🔧 **[REQUERIMIENTOS-CLIENTE.md](REQUERIMIENTOS-CLIENTE.md) — de uso interno.**
 >   Los 24 espacios de fotografía con archivo destino, ubicación, formato y tamaño
 >   exactos, más las especificaciones técnicas de cada dato.

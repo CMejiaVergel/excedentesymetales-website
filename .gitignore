@@ -27,3 +27,6 @@ $RECYCLE.BIN/
 *.psd
 *.ai
 *.cdr
+
+# ...salvo los documentos entregables del proyecto
+!docs/*.docx
