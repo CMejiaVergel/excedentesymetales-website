@@ -108,6 +108,11 @@ preguntas frecuentes, línea de tiempo histórica, datos estructurados para Goog
 
 ## 4. Pendientes de información del cliente
 
+> 📄 **El detalle completo está en [REQUERIMIENTOS-CLIENTE.md](REQUERIMIENTOS-CLIENTE.md)**:
+> los 24 espacios de fotografía con su ubicación, formato y tamaño exactos, los
+> logos de clientes, testimonios, casos de éxito, autorizaciones legales y la lista
+> de verificación para entregar al cliente. Lo de abajo es el resumen.
+
 Marcados en el código con el comentario `← CONFIRMAR` o `DATO POR CONFIRMAR`.
 
 1. **Correos electrónicos reales.** Se asumió `ventas@excedentesymetales.com` e
